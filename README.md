@@ -5,4 +5,9 @@
 对于代码中所使用的算法原理的详细介绍：
 中文版：[我的CSDN博客](https://mp.csdn.net/mp_blog/creation/editor/143401249)
 英文版：即本仓库中的PDF文件：Simulation of SIM image Reconstruction Algorithm。
-# 文件介绍
+# 文件介绍  
+Simulation of SIM image Reconstruction Algorithm.pdf：英文版代码中所使用的算法原理的详细介绍。  
+final_final_SIM.mlx：最简SIM成像重建算法的MATLAB实现代码。  
+I_test.png：生成的结构光凸显。  
+下载.jfif：用于处理的示例图像。
+
